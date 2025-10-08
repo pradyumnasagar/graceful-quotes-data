@@ -14,12 +14,17 @@ Ever open a new tab and wish for a moment of calm, inspiration, or a reminder of
 **Portrait Rotation** — cycle through multiple images automatically or fix one permanently.
 
 **Background Modes**
+
 • Gradient Themes: Sunrise (saffron → white), Accent White, Skydual (sky → saffron)
+
 • Image Mode: rotate scenic photos (local or remote)
+
 • Upload Mode: choose your own background image
+
 • Lock Mode: freeze the current background
 
-**Remote Data Support **— point it to GitHub Pages (or any HTTPS endpoint) to dynamically update quotes, portraits, or backgrounds without extension updates.
+
+**Remote Data Support** — point it to GitHub Pages (or any HTTPS endpoint) to dynamically update quotes, portraits, or backgrounds without extension updates.
 
 **Favourites & Export/Import** — bookmark your favourite quotes and export them as JSON.
 

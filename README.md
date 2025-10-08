@@ -24,8 +24,6 @@ Ever open a new tab and wish for a moment of calm, inspiration, or a reminder of
 • Lock Mode: freeze the current background
 
 
-**Remote Data Support** — point it to GitHub Pages (or any HTTPS endpoint) to dynamically update quotes, portraits, or backgrounds without extension updates.
-
 **Favourites & Export/Import** — bookmark your favourite quotes and export them as JSON.
 
 **Compact Controls & Keyboard Shortcuts** — minimal UI, remains clean yet powerful.

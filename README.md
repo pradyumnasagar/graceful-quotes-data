@@ -5,7 +5,7 @@ Ever open a new tab and wish for a moment of calm, inspiration, or a reminder of
 
 ## ✨ Key Features
 
-**Centered Glass Card Layout **— clean, modern, unobtrusive; the quote always remains legible.
+**Centered Glass Card Layout** — clean, modern, unobtrusive; the quote always remains legible.
 
 **Circular Portrait Halo** — Gurudev’s image floats just above the card, distinct and reverent.
 
